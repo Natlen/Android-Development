@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Lab09</string>
-    <string name="sms">You must grant SMS receive permission</string>
-    <string name="sms_message">SMS Message</string>
-</resources>
