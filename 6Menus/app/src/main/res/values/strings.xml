@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="operand1">operand1</string>
+    <string name="operand2">operand2</string>
+    <string name="number">Number</string>
+    <string name="equals" translatable="false">=</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+    <string name="result">Result</string>
+    <string name="reset">RESET</string>
+    <string name="exit_dialog_title">Exit Confirmation</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="exit_dialog_text">Are you sure?</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="precision">Set numbers precision</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

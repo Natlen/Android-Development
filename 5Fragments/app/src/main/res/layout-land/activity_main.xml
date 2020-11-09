@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:weightSum="2"
+    android:baselineAligned="false"
+    tools:context=".MainActivity">
+
+
+    <fragment
+        android:id="@+id/operand_frag_land"
+        android:name="com.rkcodesolution.lab05.OperandFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1" />
+
+    <fragment
+        android:id="@+id/result_fragment"
+        android:name="com.rkcodesolution.lab05.ResultFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1" />
+</LinearLayout>

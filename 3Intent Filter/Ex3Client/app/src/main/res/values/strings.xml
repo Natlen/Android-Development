@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex3 Client</string>
+    <string name="desc">This app demonstrates the call to other activities in other applications using the intent object.</string>
+    <string name="call">call</string>
+    <string name="surf">surf</string>
+    <string name="email">eMail</string>
+    <string name="register">register</string>
+    <string name="mister">Mr.</string>
+    <string name="misiz">Mrs.</string>
+</resources>
