@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="operand1">operand1</string>
+    <string name="operand2">operand2</string>
+    <string name="number">Number</string>
+    <string name="equals" translatable="false">=</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+</resources>

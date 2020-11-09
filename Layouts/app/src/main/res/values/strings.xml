@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Lab01</string>
+    <string name="hello_world">Hello Yan!</string>
+    <string name="layout_1_desc">This activity demonstrates the use of Relative Layout with two internal Linear layouts.</string>
+    <string name="layout_2_desc">This activity demonstrates the use of Grid Layout with embedded image views.</string>
+    <string name="layout_3_desc">This activity demonstrates the use of Frame Layout with multiple views on each other.</string>
+    <string name="layout_4_desc">This activity demonstrates the use of Table Layout with spanning columns.</string>
+    <string name="your_name">Your Name:</string>
+    <string name="press_me">Press Me!</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="alternative_1">Alternative 1</string>
+    <string name="alternative_2">Alternative 2</string>
+    <string name="cell9">Cell9</string>
+    <string name="cell8">Cell8</string>
+    <string name="cell7">Cell7</string>
+    <string name="cell6">Cell6</string>
+    <string name="cell5">Cell5</string>
+    <string name="cell4">Cell4</string>
+    <string name="cell3">Cell3</string>
+    <string name="cell2">Cell2</string>
+    <string name="cell1">Cell1</string>
+</resources>
+
+
