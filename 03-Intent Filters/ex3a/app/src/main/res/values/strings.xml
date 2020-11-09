@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ex3a</string>
+    <string name="intro">Hello, this app will demonstrate the transfer to a second activity and sending results back to this one. press the button to start.</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="send_back">Send Back</string>
+    <string name="again">again...</string>
+    <string name="wb">Welcome back</string>
+    <string name="mr">Mr.</string>
+    <string name="mrs">Mrs.</string>
+</resources>
