@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="delete_task_list">מחיקת רשימת משימות</string>
+    <string name="new_task">משימה חדשה</string>
+    <string name="activate_service">הפעלה / כיבוי שירות SMS</string>
+    <string name="exit">יציאה</string>
+    <string name="set_priority">עדיפות</string>
+    <string name="set_name">שם</string>
+    <string name="set_date_and_time">תאריך וזמן</string>
+    <string name="set_location">מיקום</string>
+    <string name="set_description">תיאור</string>
+    <string name="day">יום</string>
+    <string name="month">חודש</string>
+    <string name="year">שנה</string>
+    <string name="hour">שעות</string>
+    <string name="minute">דקות</string>
+    <string name="save_task">שמירה</string>
+    <string name="delete_tasks_list">מחיקת רשימת משימות</string>
+    <string name="confirm">האם הינך בטוח ?</string>
+    <string name="delete_tasks_list_yes">כן</string>
+    <string name="delete_tasks_list_no">לא</string>
+    <string name="red_priority_had_been_chosen">עדיפות : אדומה נבחרה</string>
+    <string name="yellow_priority_had_been_chosen">עדיפות : צהובה נבחרה</string>
+    <string name="turquoise_priority_had_been_chosen">עדיפות : כחולה נבחרה</string>
+    <string name="green_priority_had_been_chosen">עדיפות : ירוקה נבחרה</string>
+    <string name="shoe_completed_tasks">הצגת / הסתרת משימות מבוצעות</string>
+    <string name="task_edition"> עריכת משימה</string>
+    <string name="task_edit_question">האם ברצונך לערוך את המשימה ?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="sorting_preferences">העדפות סידור רשימה</string>
+    <string name="sort_by_priority">סדר לפי עדיפות</string>
+    <string name="sort_by_date_time">סדר לפי תאריך וזמן</string>
+    <string name="wanna_return">חזור</string>
+</resources>
